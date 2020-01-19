@@ -12,3 +12,7 @@ npm run build
 ```
 node example/index.js
 ```
+
+## Ref
+- https://github.com/weixsong/elasticlunr.js/
+- https://github.com/weixsong/lunr-languages
